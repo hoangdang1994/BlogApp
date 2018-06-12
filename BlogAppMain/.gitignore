@@ -1,2 +1,8 @@
 # IDE
 .idea/
+
+# out dir
+out/
+
+# gradle local file
+.gradle/
